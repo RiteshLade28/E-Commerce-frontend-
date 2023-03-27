@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea047e21.css",
+    "main.js": "/static/js/main.a274a258.js",
+    "static/media/mobile.png": "/static/media/mobile.296a44f273c9591b0c65.png",
+    "static/media/webcam.png": "/static/media/webcam.b2db2f0ad56af34b21f6.png",
+    "static/media/HeadPhone.webp": "/static/media/HeadPhone.3a33b9208a92e49d0bf6.webp",
+    "static/media/joystick.jpg": "/static/media/joystick.d5c7d0d4170cbe1005d8.jpg",
+    "index.html": "/index.html",
+    "main.ea047e21.css.map": "/static/css/main.ea047e21.css.map",
+    "main.a274a258.js.map": "/static/js/main.a274a258.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea047e21.css",
+    "static/js/main.a274a258.js"
+  ]
+}
