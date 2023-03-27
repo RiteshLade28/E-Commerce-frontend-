@@ -1,0 +1,53 @@
+.body {
+    overflow-y: hidden;
+    /* Hide vertical scrollbar */
+    overflow-x: hidden;
+}
+
+.App {
+    background-color: #F4F9FD;
+    padding: 0px 100px;
+    height: 100vh;
+}
+
+.Heading {
+    align-items: center;
+}
+
+.square1 {
+    display: inline-block;
+    position: absolute;
+    border: 2px solid red;
+    top: 100px;
+    right: 100px;
+}
+
+.circle {
+    position: fixed;
+    top: -350px;
+    left: 850px;
+    overflow: hidden;
+    height: 1000px;
+    width: 1000px;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    background-color: blue;
+    height: 90%;
+    width: 90%;
+}
+
+.circle-2 {
+    background-color: "red";
+    height: "100px";
+    width: "100px"
+}
+
+.inputRounded .MuiOutlinedInput-root {
+    border-radius: 5px 0px 0px 5px;
+}
